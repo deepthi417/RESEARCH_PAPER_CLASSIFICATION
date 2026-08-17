@@ -5,3 +5,4 @@ keybert>=0.8
 faiss-cpu>=1.7
 numpy>=1.26
 pandas>=2.0
+torchvision==0.24.1
